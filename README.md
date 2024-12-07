@@ -10,10 +10,6 @@ This repository contains the implementation of a machine learning project aimed 
 - [Features and Data](#features-and-data)
 - [Models Implemented](#models-implemented)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributors](#contributors)
 
 ---
 
