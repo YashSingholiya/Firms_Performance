@@ -65,7 +65,6 @@ The following regression models were used and evaluated:
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
 
 ### Installation
-1. Clone the repository:
+   Clone the repository:
    ```bash
-   git clone https://github.com/your-username/firm-performance-ml.git
-   cd firm-performance-ml
+   git clone https://github.com/YashSingholiya/Firms_Performance.git
